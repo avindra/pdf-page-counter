@@ -1,0 +1,44 @@
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.exe
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.pdb
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.vbproj.ResolveComReference.cache
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.About.resources
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.dirPresent.resources
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.FAQ.resources
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.frmMain.resources
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.frmStats.resources
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.ReportViewer.resources
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.vbproj.GenerateResource.Cache
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\bin\PDF Page Counter.exe
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\bin\PDF Page Counter.pdb
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\bin\PDF Page Counter.xml
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.xml
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF_Page_Counter.rptMain.rpt
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\bin\PDF Page Counter.exe.config
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\bin\PDF Page Counter.exe.manifest
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\bin\PDF Page Counter.application
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.TrustInfo.xml
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.exe.manifest
+C:\Users\linus\Desktop\Computer Science\vs.2003\PDF Page Counter\obj\Debug\PDF Page Counter.application
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\bin\PDF Page Counter.exe.config
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.exe
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.xml
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.pdb
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\bin\PDF Page Counter.exe.manifest
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\bin\PDF Page Counter.application
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\bin\PDF Page Counter.exe
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\bin\PDF Page Counter.pdb
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\bin\PDF Page Counter.xml
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.vbproj.ResolveComReference.cache
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.rptMain.rpt
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.About.resources
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.dirPresent.resources
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.FAQ.resources
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.frmMain.resources
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.frmStats.resources
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF_Page_Counter.ReportViewer.resources
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.vbproj.GenerateResource.Cache
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.TrustInfo.xml
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.exe.manifest
+C:\Users\linus\Desktop\PDF Page Counter w.o listbox\obj\Debug\PDF Page Counter.application

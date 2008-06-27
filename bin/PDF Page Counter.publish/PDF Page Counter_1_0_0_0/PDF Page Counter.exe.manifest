@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="PDF Page Counter.exe" version="1.0.0.0" publicKeyToken="606698958423484f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PDF Page Counter" version="2.0.3098.39295" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PDF Page Counter.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PDF Page Counter.exe" size="491520">
+      <assemblyIdentity name="PDF Page Counter" version="2.0.3098.39295" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>oCPsjgRatnuxMnbv6dFnpDwzkoY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="dataMain.xsd" size="2446">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3b1A5S66e1FSUMtLrFGSx1LydOs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PDF Page Counter.exe.config" size="1319">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>84C5PgtM76tg05GJOSWZEhXHiKU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=linus-PC\linus" issuerKeyHash="421e20101b3ebe487ac552a82bd755814b97a207" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Sead/QEJWwwT2Yrmmfl/j1YH7j4=</DigestValue></Reference></SignedInfo><SignatureValue>hxjCCMF1i2Ac7JtwzA/ehrLoQQC7eSTyLIYNtjVuitxqYvPj/K7PFKo2hDUogF40d49Qlzk0kzEufpQRXN8GAxgP3v7V55hNK2hoBSlRVS1z4nJnMcHDnvn9g+nq2Xd08CYIOkC9M0R4cSaAfb23rqGap6EJJcCIyJc5Cm9dvao=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u24PeOKu6aP4VrG+pBp/RFliNhjXSrPASUX+Yr156XPtT0KorZuE6xugxps9XQIcGbt8k36Vgjc2azIK8wgfu/pIZBO8xmlpJ1k5Ryn2lHAYfnh9OPKp33GacKyU6Ll4c6M3sD8e6twL4/f2UoOUy7GtoO/K2qUW4hp0LZi+qTs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3eee07568f7ff999e68ad9130c5b0901fd9de649" Description="" Url=""><as:assemblyIdentity name="PDF Page Counter.exe" version="1.0.0.0" publicKeyToken="606698958423484f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=linus-PC\linus</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>9IQtD+kFaku+IDENAd8pJYkmv+Q=</DigestValue></Reference></SignedInfo><SignatureValue>HdXyKTT6yTPU4TwPoeWE2C/Js62uDV1BdaVzTgEDJyuV55N7RJL9Bc3yG1cVWFX+dRXFkiV1hZjukmTmKKXiUtOmIz7j4VSGVcdu8Rwuj1PxG60xnzbSlaxLRMBDfoiAa0qhLLLRgUJGJKA3BttsOaIBt/XTq+/hzhpNyGQIBhg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u24PeOKu6aP4VrG+pBp/RFliNhjXSrPASUX+Yr156XPtT0KorZuE6xugxps9XQIcGbt8k36Vgjc2azIK8wgfu/pIZBO8xmlpJ1k5Ryn2lHAYfnh9OPKp33GacKyU6Ll4c6M3sD8e6twL4/f2UoOUy7GtoO/K2qUW4hp0LZi+qTs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQjp4MsreSKL5JUCCKhHC6kjANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAbABpAG4AdQBzAC0AUABDAFwAbABpAG4AdQBzMB4XDTA4MDYyNjA1MjQzN1oXDTA5MDYyNjExMjQzN1owJzElMCMGA1UEAx4cAGwAaQBuAHUAcwAtAFAAQwBcAGwAaQBuAHUAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu24PeOKu6aP4VrG+pBp/RFliNhjXSrPASUX+Yr156XPtT0KorZuE6xugxps9XQIcGbt8k36Vgjc2azIK8wgfu/pIZBO8xmlpJ1k5Ryn2lHAYfnh9OPKp33GacKyU6Ll4c6M3sD8e6twL4/f2UoOUy7GtoO/K2qUW4hp0LZi+qTsCAwEAATANBgkqhkiG9w0BAQUFAAOBgQB/WjZtD+IQLiF77Y+KaIEBQEBBEbbzLta60ddmf6xE42NJVbTLp2eZvEmLZEAYXb6gFz00J61QGsxO6EiT9Y0bUbZiYwYbDFgHPCFeqqajMmzRaAXfmJtl2qCQSUNrKKishg5RvdLu3YhjNC8Mh0I/66eqlYPTWpbRwK18yomeGQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

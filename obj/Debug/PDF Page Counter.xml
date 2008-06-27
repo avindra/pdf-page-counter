@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PDFPageCounter
+</name>
+</assembly>
+<members>
+<member name="T:PDF_Page_Counter.dataMain.mainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PDF_Page_Counter.dataMain.mainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PDF_Page_Counter.dataMain.mainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PDF_Page_Counter.dataMain">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
